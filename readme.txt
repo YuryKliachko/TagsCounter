@@ -1,4 +1,1 @@
-this a text row
-due to amend testing
-ddd
-I'm YK
+this changes will be pushed to origin/yury_kliachko
